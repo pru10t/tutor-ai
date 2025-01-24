@@ -70,8 +70,8 @@ Network URL: http://10.18.222.37:8501
 
 1. Try running : pytests tests/      (If this doesnt work, proceed with below steps)
 2. cd tests
-3. pytest test_health_check.py
-4. pytest test_model_handler.py
+3. pytest test_health_check.py    (Tests if the app is running on localhost)
+4. pytest test_model_handler.py    (Tests if Local LLM is up and running)
 
 
 ## License
