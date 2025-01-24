@@ -52,8 +52,10 @@ streamlit run app.py
 
 4. Once this is successful, the application is up and running on 
 
+```bash
 Local URL: http://localhost:8501
 Network URL: http://10.18.222.37:8501
+```
 
 
 
